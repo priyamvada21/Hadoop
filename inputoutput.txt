@@ -1,0 +1,12 @@
+
+INPUT
+
+Apple Banana Grapes Apple Banana Grapes Apple Banana Grapes Apple Banana Grapes Apple Banana Banana Grapes Banana Grapes
+Apple Apple Apple Priyamvada section DS 2015182 Banana Banana Banana Apple Banana Grapes
+
+OUTPUT
+
+Apple   9
+Banana  11
+Grapes  7
+
